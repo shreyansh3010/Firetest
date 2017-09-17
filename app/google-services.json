@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121184595308",
+    "firebase_url": "https://project-86bde.firebaseio.com",
+    "project_id": "project-86bde",
+    "storage_bucket": "project-86bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121184595308:android:fb93856f6a5a0a18",
+        "android_client_info": {
+          "package_name": "com.venika.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121184595308-8bgj791g157u0010jh8rrm6gpbou5qvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venika.project",
+            "certificate_hash": "71ae7dfc34419b1c26627ba161e3dcc751a35344"
+          }
+        },
+        {
+          "client_id": "121184595308-6rm45oq5984htblce8i5osd2u5vgvplb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBigyvRHTnFuuYisQrT7o6Vf6ymx4BQh74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121184595308-6rm45oq5984htblce8i5osd2u5vgvplb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
